@@ -21,4 +21,4 @@ Their programs include (lists):
 Finally, we can ~~strikethrough some text if we change our minds~~.
 
 This tutorial was powered by the Carpentries:
-![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png))
+![Carpentries logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png))
