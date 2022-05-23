@@ -2,5 +2,5 @@ Adding some global variables that can be repeated in every file.
 
 
 description: "Learning github pages with guthub and jekyll"
-email: kaycee_@gmail.com
-twitter: [Twitter](https://twitter.com/kenechi_omeke)
+email: "kaycee_@gmail.com"
+twitter: "https://twitter.com/kenechi_omeke"
