@@ -20,7 +20,5 @@ Their programs include (lists):
 
 Finally, we can ~~strikethrough some text if we change our minds~~.
 
-Images can make things easier to understand:
-
-Inline-style: 
+This tutorial was powered by the Carpentries:
 ![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png))
