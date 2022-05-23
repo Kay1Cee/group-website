@@ -12,7 +12,7 @@ Line breaks by
 two spaces.
 
 ### Links
-[Carpentries webpage](https://carpentries.org)
+[carpentries][]
 
 Their programs include (lists):
 1. Coding classes
@@ -22,3 +22,7 @@ Finally, we can ~~strikethrough some text if we change our minds~~.
 
 This tutorial was powered by the Carpentries:
 ![Carpentries logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
+
+Second carpentries link: [carpentries][]
+
+[carpentries]: https://carpentries.org
