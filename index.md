@@ -1,1 +1,1 @@
-Some description for the website
+Building websites with GitHub
