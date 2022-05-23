@@ -9,4 +9,5 @@ Citation link coming up soon.
 
 
 ## Contact us
-[Contact](https://github.com/Kay1Cee/group-website/blob/main/index.md)
+[Website](https://github.com/Kay1Cee/group-website/blob/main/index.md)
+[Twitter]({{ site.twitter }} )
